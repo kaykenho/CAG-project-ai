@@ -140,9 +140,6 @@ tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 
 4. Start generating with cache support using the provided functions.
 
-## License
-[Add your chosen license here]
-
 ## Acknowledgments
 - Hugging Face team for the Transformers library
 - GPT-2 team at OpenAI
